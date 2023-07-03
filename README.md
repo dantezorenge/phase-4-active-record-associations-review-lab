@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Create one-to-many and many-to-many associations
-- Use `has_many`, `belongs_to` and `has_many :through` Active Record macros
+h Use `has_many`, `belongs_to` and `has_many :through` Active Record macros
 
 ## Instructions
 
